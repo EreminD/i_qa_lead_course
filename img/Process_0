@@ -60,19 +60,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LTHy2AIePxDBMv3u-uZL-1" value="Задача на тестирование" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LTHy2AIePxDBMv3u-uZL-1" value="Задача на тестирование" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="170" y="280" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LTHy2AIePxDBMv3u-uZL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTHy2AIePxDBMv3u-uZL-2" target="LTHy2AIePxDBMv3u-uZL-1">
+        <mxCell id="LTHy2AIePxDBMv3u-uZL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LTHy2AIePxDBMv3u-uZL-2" target="LTHy2AIePxDBMv3u-uZL-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LTHy2AIePxDBMv3u-uZL-4" value="создает" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LTHy2AIePxDBMv3u-uZL-3">
+        <mxCell id="LTHy2AIePxDBMv3u-uZL-4" value="создает" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LTHy2AIePxDBMv3u-uZL-3" vertex="1" connectable="0">
           <mxGeometry x="-0.35" y="-2" relative="1" as="geometry">
             <mxPoint y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTHy2AIePxDBMv3u-uZL-2" value="Lead QA" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="LTHy2AIePxDBMv3u-uZL-2" value="Lead QA" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CXeTsVfrSKjM4hKfNwsO-1" value="Тестировщик" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CXeTsVfrSKjM4hKfNwsO-4" value="пу-пу-пу" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
+          <mxGeometry x="390" y="420" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
